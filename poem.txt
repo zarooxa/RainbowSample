@@ -12,6 +12,7 @@ Yellow
 Red
 ponies
 Indigo
+Test
 fixed issue
 These are the colors of the poem
 And the unicorn and ponies
